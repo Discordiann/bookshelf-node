@@ -1,0 +1,4 @@
+{
+    "latest1.1":"35a75421cd4cf22f8a5cefd6b1517e8b",
+    "latest1.2":"9e1578b637503d5360864c6ac0c4ce23ca02f2ad"
+}
